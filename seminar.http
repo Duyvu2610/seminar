@@ -1,0 +1,6 @@
+@seminar_HostAddress = http://localhost:5285
+
+GET {{seminar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
